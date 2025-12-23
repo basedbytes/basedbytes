@@ -19,7 +19,7 @@ Aiming to get cracked, stat.
 
 ---
 
-### 🧪 side projects (so far nothing too much of note)
+### 🧪 side projects (so far nothing too much of note - aiming to change)
 - **spoofy** — MAC address spoofing utility that survives modern macOS  
   https://www.npmjs.com/package/spoofy
 
