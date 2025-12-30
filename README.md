@@ -27,8 +27,5 @@ Aiming to get cracked, stat.
 
 ### 📍 notes
 - I like understanding how things work
-- ifconfig is not the interface it used to be
-
 ---
-
 low-level arc in progress.
