@@ -1,13 +1,12 @@
 ## 💾
 
-I’m a software engineer in finance.
+i’m a software engineer in finance.
 
-By day: distributed systems, payments, production constraints.  
-By night: systems, networking, OS internals, and things closer to the metal than my job strictly requires.
+distributed systems, payments, ml, production constraints, systems, networking, OS internals, and other cool stuff.
 
-2026 goal: go lower-level.  
-Compilers, operating systems, performance, hardware-aware software.  
-Aiming to get cracked, stat.
+2026 goal: go lower-level, get cracked
+compilers, operating systems, performance, hardware-aware software.  
+
 
 ---
 
@@ -15,7 +14,7 @@ Aiming to get cracked, stat.
 - operating systems & kernels
 - networking internals
 - low-level performance work
-- things that break when abstractions leak
+- machine learning 
 
 ---
 
@@ -26,6 +25,5 @@ Aiming to get cracked, stat.
 ---
 
 ### 📍 notes
-- I like understanding how things work
+- i like understanding how things work
 ---
-low-level arc in progress.
